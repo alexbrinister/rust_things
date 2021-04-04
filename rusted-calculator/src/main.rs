@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, world!");
+    println!("Welcome to Rusted Calculator, a dumb Reverse Polish Notation calculator");
 }
